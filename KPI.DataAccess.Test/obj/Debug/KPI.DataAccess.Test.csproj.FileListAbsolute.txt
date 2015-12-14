@@ -1,0 +1,4 @@
+E:\Hy\web\KPISolution\KPI.DataAccess.Test\bin\Debug\KPI.DataAccess.Test.dll
+E:\Hy\web\KPISolution\KPI.DataAccess.Test\bin\Debug\KPI.DataAccess.Test.pdb
+E:\Hy\web\KPISolution\KPI.DataAccess.Test\obj\Debug\KPI.DataAccess.Test.dll
+E:\Hy\web\KPISolution\KPI.DataAccess.Test\obj\Debug\KPI.DataAccess.Test.pdb

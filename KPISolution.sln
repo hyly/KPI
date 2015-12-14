@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8CB8A8D3-A34B-4ECA-B512-396A70A1518E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{1FD5F8F7-49A9-41F0-9EF2-DEF0D21086DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F8B6D55F-3402-40F1-B1CA-BF1869C3D09B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{F63215CB-E74A-4155-8AB7-C902CCE88673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.DataAccess", "KPI.DataAccess\KPI.DataAccess.csproj", "{091BE30B-EC01-4E15-908C-780B14B91370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.DomainModel", "KPI.DomainModel\KPI.DomainModel.csproj", "{91436232-3352-40CF-8B07-F20D9D6E4CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.Services", "KPI.Services\KPI.Services.csproj", "{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.BusinessObjects", "KPI.BusinessObjects\KPI.BusinessObjects.csproj", "{7EB92A8A-FB16-4CCC-9643-90DE23A864F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.Web.Api", "KPI.Web.Api\KPI.Web.Api.csproj", "{C3D10816-B5C3-498D-AD5C-481EB4AA87C7}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KPI_UI", "http://localhost:9539", "{5F21F23C-3731-4DED-8E2A-512000232E74}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9539"
+		Debug.AspNetCompiler.PhysicalPath = "KPI_UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9539\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9539"
+		Release.AspNetCompiler.PhysicalPath = "KPI_UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9539\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "KPI_UI\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.DataAccess.Test", "KPI.DataAccess.Test\KPI.DataAccess.Test.csproj", "{13C59E16-9784-4B77-80A2-6DE7131F3E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.Services.Test", "KPI.Services.Test\KPI.Services.Test.csproj", "{F7979F3B-2A35-45D0-B158-0BA54F88D9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.WebApi.Controller.Test", "KPI.WebApi.Controller.Test\KPI.WebApi.Controller.Test.csproj", "{7E8F2B94-024F-408B-95C0-45345B2365B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.Web.Infrastructure", "KPI.Web.Infrastructure\KPI.Web.Infrastructure.csproj", "{679797FD-8B72-4CE7-BFDA-4A345401CD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091BE30B-EC01-4E15-908C-780B14B91370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091BE30B-EC01-4E15-908C-780B14B91370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091BE30B-EC01-4E15-908C-780B14B91370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091BE30B-EC01-4E15-908C-780B14B91370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91436232-3352-40CF-8B07-F20D9D6E4CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91436232-3352-40CF-8B07-F20D9D6E4CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91436232-3352-40CF-8B07-F20D9D6E4CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91436232-3352-40CF-8B07-F20D9D6E4CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB92A8A-FB16-4CCC-9643-90DE23A864F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB92A8A-FB16-4CCC-9643-90DE23A864F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB92A8A-FB16-4CCC-9643-90DE23A864F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB92A8A-FB16-4CCC-9643-90DE23A864F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D10816-B5C3-498D-AD5C-481EB4AA87C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D10816-B5C3-498D-AD5C-481EB4AA87C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D10816-B5C3-498D-AD5C-481EB4AA87C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D10816-B5C3-498D-AD5C-481EB4AA87C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F21F23C-3731-4DED-8E2A-512000232E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F21F23C-3731-4DED-8E2A-512000232E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F21F23C-3731-4DED-8E2A-512000232E74}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F21F23C-3731-4DED-8E2A-512000232E74}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{13C59E16-9784-4B77-80A2-6DE7131F3E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C59E16-9784-4B77-80A2-6DE7131F3E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C59E16-9784-4B77-80A2-6DE7131F3E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C59E16-9784-4B77-80A2-6DE7131F3E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7979F3B-2A35-45D0-B158-0BA54F88D9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7979F3B-2A35-45D0-B158-0BA54F88D9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7979F3B-2A35-45D0-B158-0BA54F88D9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7979F3B-2A35-45D0-B158-0BA54F88D9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8F2B94-024F-408B-95C0-45345B2365B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8F2B94-024F-408B-95C0-45345B2365B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8F2B94-024F-408B-95C0-45345B2365B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8F2B94-024F-408B-95C0-45345B2365B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679797FD-8B72-4CE7-BFDA-4A345401CD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679797FD-8B72-4CE7-BFDA-4A345401CD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679797FD-8B72-4CE7-BFDA-4A345401CD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679797FD-8B72-4CE7-BFDA-4A345401CD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{091BE30B-EC01-4E15-908C-780B14B91370} = {8CB8A8D3-A34B-4ECA-B512-396A70A1518E}
+		{91436232-3352-40CF-8B07-F20D9D6E4CBB} = {8CB8A8D3-A34B-4ECA-B512-396A70A1518E}
+		{0E49F5D6-5B58-46B6-87E9-F32419E0E7D0} = {1FD5F8F7-49A9-41F0-9EF2-DEF0D21086DC}
+		{7EB92A8A-FB16-4CCC-9643-90DE23A864F9} = {1FD5F8F7-49A9-41F0-9EF2-DEF0D21086DC}
+		{13C59E16-9784-4B77-80A2-6DE7131F3E8B} = {F8B6D55F-3402-40F1-B1CA-BF1869C3D09B}
+		{F7979F3B-2A35-45D0-B158-0BA54F88D9D3} = {F8B6D55F-3402-40F1-B1CA-BF1869C3D09B}
+		{7E8F2B94-024F-408B-95C0-45345B2365B3} = {F8B6D55F-3402-40F1-B1CA-BF1869C3D09B}
+		{C3D10816-B5C3-498D-AD5C-481EB4AA87C7} = {F63215CB-E74A-4155-8AB7-C902CCE88673}
+		{5F21F23C-3731-4DED-8E2A-512000232E74} = {F63215CB-E74A-4155-8AB7-C902CCE88673}
+		{679797FD-8B72-4CE7-BFDA-4A345401CD39} = {F63215CB-E74A-4155-8AB7-C902CCE88673}
+	EndGlobalSection
+EndGlobal

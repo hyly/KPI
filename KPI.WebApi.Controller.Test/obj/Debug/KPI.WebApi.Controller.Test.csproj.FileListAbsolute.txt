@@ -1,0 +1,4 @@
+E:\Hy\web\KPISolution\KPI.WebApi.Controller.Test\bin\Debug\KPI.WebApi.Controller.Test.dll
+E:\Hy\web\KPISolution\KPI.WebApi.Controller.Test\bin\Debug\KPI.WebApi.Controller.Test.pdb
+E:\Hy\web\KPISolution\KPI.WebApi.Controller.Test\obj\Debug\KPI.WebApi.Controller.Test.dll
+E:\Hy\web\KPISolution\KPI.WebApi.Controller.Test\obj\Debug\KPI.WebApi.Controller.Test.pdb

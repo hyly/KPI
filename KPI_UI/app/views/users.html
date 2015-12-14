@@ -1,0 +1,41 @@
+﻿<div class="row-fluid sortable">
+    <div class="box span12">
+        <div class="box-header" data-original-title>
+            <h2><i class="halflings-icon user"></i><span class="break"></span>Members</h2>
+            <div class="box-icon">
+                <a href="#" class="btn-setting"><i class="halflings-icon wrench"></i></a>
+                <a href="#" class="btn-minimize"><i class="halflings-icon chevron-up"></i></a>
+                <a href="#" class="btn-close"><i class="halflings-icon remove"></i></a>
+            </div>
+        </div>
+        <div class="box-content">
+            <table class="table table-striped table-bordered bootstrap-datatable datatable">
+                <thead>
+                    <tr>
+                        <th>User Id</th>
+                        <th>User Name</th>
+                        <th>Profile</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-ng-repeat="user in users">
+                        <td>{{user.userId}}</td>
+                        <td class="center">{{user.userName}}</td>
+                        <td class="center">{{user.profile.name}}</td>
+                        <td class="center">
+                            <span class="label label-success" data-ng-if="user.isActive">Active</span>
+                            <span class="label label-important" data-ng-if="!user.isActive">Banned</span>
+                        </td>
+                        <td class="center">
+                            <a class="btn btn-info" data-ng-click="edit(user)">
+                                Edit
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><!--/span-->
+</div>

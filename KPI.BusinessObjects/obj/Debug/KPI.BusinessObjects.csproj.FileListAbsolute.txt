@@ -1,0 +1,13 @@
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.BusinessObjects.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.BusinessObjects.pdb
+E:\Hy\web\KPISolution\KPI.BusinessObjects\obj\Debug\KPI.BusinessObjects.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\obj\Debug\KPI.BusinessObjects.pdb
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.DataAccess.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\EntityFramework.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\Autofac.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.DomainModel.dll
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.DataAccess.pdb
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\EntityFramework.xml
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\Autofac.xml
+E:\Hy\web\KPISolution\KPI.BusinessObjects\bin\Debug\KPI.DomainModel.pdb
+E:\Hy\web\KPISolution\KPI.BusinessObjects\obj\Debug\KPI.BusinessObjects.csprojResolveAssemblyReference.cache

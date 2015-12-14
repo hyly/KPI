@@ -1,0 +1,14 @@
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\KPI.DataAccess.dll.config
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\KPI.DataAccess.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\KPI.DataAccess.pdb
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\Autofac.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\EntityFramework.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\KPI.DomainModel.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\KPI.DomainModel.pdb
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\Autofac.xml
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\EntityFramework.xml
+E:\Hy\web\KPISolution\KPI.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hy\web\KPISolution\KPI.DataAccess\obj\Debug\KPI.DataAccess.csprojResolveAssemblyReference.cache
+E:\Hy\web\KPISolution\KPI.DataAccess\obj\Debug\KPI.DataAccess.dll
+E:\Hy\web\KPISolution\KPI.DataAccess\obj\Debug\KPI.DataAccess.pdb

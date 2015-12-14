@@ -1,0 +1,4 @@
+E:\Hy\web\KPISolution\KPI.DomainModel\bin\Debug\KPI.DomainModel.dll
+E:\Hy\web\KPISolution\KPI.DomainModel\bin\Debug\KPI.DomainModel.pdb
+E:\Hy\web\KPISolution\KPI.DomainModel\obj\Debug\KPI.DomainModel.dll
+E:\Hy\web\KPISolution\KPI.DomainModel\obj\Debug\KPI.DomainModel.pdb

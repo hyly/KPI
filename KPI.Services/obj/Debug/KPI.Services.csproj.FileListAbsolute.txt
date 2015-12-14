@@ -1,0 +1,17 @@
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.Services.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.Services.pdb
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\Autofac.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\AutoMapper.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.BusinessObjects.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.DomainModel.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.BusinessObjects.pdb
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.DomainModel.pdb
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\Autofac.xml
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\AutoMapper.xml
+E:\Hy\web\KPISolution\KPI.Services\obj\Debug\KPI.Services.csprojResolveAssemblyReference.cache
+E:\Hy\web\KPISolution\KPI.Services\obj\Debug\KPI.Services.dll
+E:\Hy\web\KPISolution\KPI.Services\obj\Debug\KPI.Services.pdb
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.DataAccess.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\EntityFramework.dll
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\KPI.DataAccess.pdb
+E:\Hy\web\KPISolution\KPI.Services\bin\Debug\EntityFramework.xml
